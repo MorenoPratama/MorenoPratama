@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MorenoPratama
+- 👀 I’m interested in Coding, UI/UX, and Gaming
+- 🌱 I’m currently learning ReactJS, NextJS, NodeJS
+- 📫 Contact me: +62 896-3777-3300
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I need less sleep than most people so I can do more activities
