@@ -1,7 +1,7 @@
-👋 Hi, I’m @MorenoPratama
-😄 Pronouns: He/Him
-👀 I’m interested in Coding, UI/UX, and Gaming
-🌱 I’m currently learning ReactJS, NextJS, NodeJS
+- 👋 Hi, I’m @MorenoPratama
+- 😄 Pronouns: He/Him
+- 👀 I’m interested in Coding, UI/UX, and Gaming
+- 🌱 I’m currently learning ReactJS, NextJS, NodeJS
 
 ⚡ Fun fact: I try to make people days whenever i can :>
 
