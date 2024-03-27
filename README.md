@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @MorenoPratama
-- 👀 I’m interested in Coding, UI/UX, and Gaming
-- 🌱 I’m currently learning ReactJS, NextJS, NodeJS
-- 📫 Contact me: +62 896-3777-3300
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I need less sleep than most people so I can do more activities
+👋 Hi, I’m @MorenoPratama
+😄 Pronouns: He/Him
+👀 I’m interested in Coding, UI/UX, and Gaming
+🌱 I’m currently learning ReactJS, NextJS, NodeJS
+
+⚡ Fun fact: I try to make people days whenever i can :>
+
+📫 Ways to contact me
+- Discord: Shiku.id
+- Whatsapp: +62 896-3777-3300
